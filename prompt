@@ -1,0 +1,1 @@
+export PROMPT="%{$fg[blue]%}$USER%{$fg[blue]%}@%{$fg[blue]%}labasr.lan %{$fg[yellow]%}%~ %{$reset_color%}% "
